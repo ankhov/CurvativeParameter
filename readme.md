@@ -211,13 +211,3 @@ CurvativeParameter/
 
 ---
 
-```
-
-Если вы хотите, я также могу сгенерировать:
-
-- `Dockerfile`
-- `docker-compose.yml`
-- Файл `table1_fixture.json` в правильном формате Django
-
-Просто дайте знать.
-```
